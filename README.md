@@ -1,2 +1,2 @@
 # learning-nodejs
-NodeJS crash course with some useful shorthand Javascript
+NodeJS crash course including some useful shorthand Javascript from Udemy.
